@@ -42,3 +42,32 @@ Our **HBCU Battle of the Brains** team combined expertise in:
 ⚡ **Run this demo in seconds to see our AI in action!**  
 
 ### **1️⃣ Clone the Repository**
+Open your terminal and run:  
+```bash
+git clone https://github.com/elitebronz267/MBC_TECH_03132025.git
+cd MBC_TECH_03132025
+## **2️⃣ Make Sure You Have Python Installed
+Check if Python 3 is installed by running:
+
+bash
+Copy
+Edit
+python3 --version
+**3️⃣ Run the AI Optimizer
+Execute the script using:
+
+bash
+Copy
+Edit
+./run.sh
+(If you get a permission denied error, run: chmod +x run.sh first, then rerun ./run.sh)
+
+
+4️⃣ Expected Output
+🔧 Setting up environment...
+✅ AI Ready!
+🚀 Optimizing Ads...
+Ad Optimized: -23.5% energy usage!
+Ad Optimized: -18.2% energy usage!
+📊 Report: 5 ads optimized, 95.7% total energy saved.
+🎉 Mission Complete!
